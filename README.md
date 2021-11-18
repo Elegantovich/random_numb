@@ -11,5 +11,3 @@ pip install -r requirements.txt
 - В папке с файлом manage.py выполните команду:
 ```
 python random_num.py
-
-
